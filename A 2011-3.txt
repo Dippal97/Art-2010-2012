@@ -1,0 +1,70 @@
+Another Myth Bites The Dust: How Apple Listens To Its Customers
+Steve DenningSenior Contributor
+I write about 21st century leadership, Agile, innovation & narrative.
+Follow
+Aug 26, 2011,11:23am EDT
+uncaptioned
+Yesterday I pointed to five dangerous myths about Steve Jobs. Here’s another one. Apple doesn’t listen to its customers.
+
+Thus Alan Deutschman said yesterday in the New York Times about Steve Jobs: “He doesn’t market-test anything. It’s all his own judgment and perfectionism and gut…. Again and again, Mr. Jobs has gambled that he knew what the customer would want, and again and again he has been right.”
+
+Gambling? Instinct? Gut?
+
+Not really.
+
+The Ultimate Question 2.0
+The reality is that Apple listens very closely and systematically to its customers. Apple is one of the premier exponents of the Net Promoter Score for systematically listening to customers and managing its business in response to what they hear. Fortunately, with the wonderful new book being published in September 2011, The Ultimate Question 2.0 (Revised and Expanded Edition): How Net Promoter Companies Thrive in a Customer-Driven World by Fred Reichheld with Rob Markey, we have a blow-by-blow account of exactly how Apple does listen to its customers. Listening to customers is at the center of Apple’s business processes.
+
+PROMOTED
+
+
+
+
+Fred Reichheld’s The Ultimate Question, which was published in 2006, was a comprehensive account of best available expertise on measuring customer delight—the new bottom line of 21st Century businesses. It showed how asking a single question, “How likely is it that you will recommend this product or service to a friend or colleague?” on a 0-10 point scale, and tracking the ratio of “promoters” to detractors—the Net Promoter Score or NPS—was the best and most practical single measure of customer delight.
+
+Now five years later, Reichheld and Markey share the experience with NPS of leading companies and show how this rapidly advancing sphere of knowledge is becoming the compass for business success in the 21st Century, in particular Apple.
+
+Not surprisingly, Apple is one of the stars of the show, having some the highest NPS scores of any sector. But this didn’t happen by instinct or gut feel or gambling. It was earned by Apple the old fashioned way: through careful listening to customer and responding to what they heard.
+
+Apple’s goal: delight the customers
+Take Apple’s retail stores. It helped of course that Apple's mission was not to make money but to “‘enrich the lives of customers and employees.’ The stores would be places for people to gather and learn, not just to buy. They would be designed to encourage an ongoing relationship with customers, not merely a one-off purchase transaction. The delighted customers …would tell their friends and colleagues about their wonderful experience at the store.” (p.129)
+
+Apple opens an average of three to five stores somewhere in the world every month, and uses the NPS to follow how effectively each store is living up to the mission and make adjustments.
+
+Apple listens daily
+Listening to customers isn’t something Apple does once a year or even once a quarter. NPS plays a central role in the daily management of Apple’s three-hundred plus stores.
+
+“Comments from customers help store managers prepare for service recovery calls with detractors to close the feedback loop. The outcomes of these calls, together with the customer comments, provide important coaching and feedback messages that are passed along to employees.” (p.130)
+
+Employees who create promoters are recognized by managers. In some stores, customer comments are scrolled across a large-screen TV monitor in in the employee break room.
+
+Meanwhile Apple’s central NPS team analyzes customer feedback from all the stores to understand the systemic reasons for promoter’s enthusiasm or lack thereof.
+
+At Apple, customer focus is thus not a vague slogan. It’s at the core of the way the stores are managed. Employees know where they stand among their peers in terms of NPS and where their stores stands relative to the rest of the stores in the region. Each day, there is an opening daily standup (the "daily download") where the employees review the NPS feedback and discuss how to adjust their work accordingly. (p136)
+
+Apple's response is rapid—and profitable
+At Apple, store managers call every detractor within 24 hours. Initially, they found there were some detractors they couldn’t reach. Subsequent studies showed that detractors that they did reach purchased substantially  more Apple products and services than the others. Further studies showed that every hour spent calling detractors was generating more than $1,000 in revenue or additional sales of $25 million in the first year, which was a good return on the investment. (p.156)
+
+In traditional management, where customers are secondary, the expense of following up with customers would seem like the first kind of expense to cut in a crunch. With these numbers in hand, Apple’s managers realize that this is one of the last things that should be cut.
+
+Extending the framework to employees
+Nor does Apple’s focus on customers mean that it neglects its employees. Apple has been a pioneer in adapting the NPS framework to employees. Apple realized that only employees who were promoters themselves of Apple were likely to be able to turn customers into promoters. So they began surveying their own employees every four months to determine how likely the employees would be to recommend the store as a place to work. (p.131).
+
+The results
+When Apple began measuring NPS in 2007, its 163 stores already had a very good NPS of 58%. In 2011, its 320 stores have an outstanding NPS of 72%. The best stores achieve a remarkable 90% NPS.
+
+Is the primary source of customer enthusiasm Apple’s amazing products or cool design? No. The most common reason for becoming promoters is the way store employees treat them. (p.130)
+
+The reason Apple is so committed to NPS? It helps everyone to do the right thing—enrich the lives of the customers they touch.
+
+Making money is the result, not the goal
+The result is of course that Apple makes an awful lot of money. Where a typical electronics store averages $1,200 per square foot in sales, mature Apple stores exceed $6,000 per square foot—the highest productivity in retailing of any kind. (p.131).
+
+What sometimes confuses people in thinking about Apple is that they see Apple making a lot of money, and they begin to imagine that making money must be Apple’s goal.
+
+On the contrary. If making money were ever to become Apple’s goal, the whole approach would collapse back into the failing practices of traditional management.
+
+Thus Apple practices radical management, where making money is the result, not the goal of the organization. The bottom line of its business is to delight the customer. We are indebted to The Ultimate Question 2.0 for showing us how they accomplish that on a daily basis.
+
+The Ultimate Question 2.0
+The Ultimate Question 2.0 shows how many leading companies like Apple, such as Intuit [INTU], Philips [PHG], Southwest Airlines [LUV] and Allianz [AZ] are focusing on customer delight and using NPS to accomplish that. This book, which is essential reading for anyone interested in radical management, is being published in September 2011 by Harvard Business Review Press and is now available for pre-order at Amazon hereuncaptioned

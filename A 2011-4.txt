@@ -1,0 +1,205 @@
+Apple’s Terrific And Tumultuous 2011
+MG Siegler@mgsiegler / 7:56 PM EST•December 30, 2011
+
+118931_Papel-de-Parede-Apple-Logo-Colorido_1920x1200
+It was the best of times, it was the worst of times…
+
+Those words seem to encapsulate Apple’s 2011 perfectly. The year saw the company both became the most valuable company in the world and lose its founder, savior, visionary, and leader.
+
+Earlier, Erick published his roundup of the bigger stories and themes in tech this year. Topping that list is the passing of Steve Jobs, a story so big that it far transcended typical tech news. But even without that sad news, 2011 was all about Apple. There was certainly enough news to constitute its own roundup. So here we go.
+
+January
+
+Though January has historically been a huge month for Apple where key products were unveiled at Macworld, 2011 marked the second year of Apple marching to its own beat.
+
+January marked the first time the company surpassed a $300 billion market cap. The only public company ahead of them in that regard was Exxon. And that wouldn’t last…
+
+On January 6, the Mac App Store officially opened for business, phase three of Apple’s plan to kill off the optical disc. The Mac App Store also offered an early taste of OS X Lion, which would come later in the year.
+
+On January 7, Verizon sent out mysterious invites to an event in New York City. The fact that I was invited said something. Sure enough, Verizon took the stage with then-Apple COO Tim Cook to unveil the Verizon iPhone. Finally.
+
+And of course, January saw the beginning of the iPad 2 rumors…
+
+On January 17, Apple announced that Steve Jobs would be taking another medical leave of absence, and released Jobs’ letter to the company. As with his past medical leaves, Tim Cook would step in to the lead the company day-to-day, but Jobs would retain his CEO title (and remain involved). Sadly, this time, the situation was not temporary.
+
+Apple’s Q1 earnings were the best ever for the company, with $26.7 Billion in revenue, $6 Billion in profit on 7.33 Million iPads and 16.24 Million iPhones sold.
+
+At the end of the month, the App Store hit 10 billion downloads.
+
+
+
+February
+
+The month kicked off with controversy after Sony’s eReader app was rejected by Apple. The issue wasn’t that Apple changed their App Store rules, it’s that they started enforcing them (around in-app purchases) which jumpstarted a shitstorm.
+
+Part of the App Store tweaking was due to the fact that Apple was about to launch full-on subscriptions starting with News Corp’s The Daily, which launched on February 2 — incidentally, the same day Google unveiled Android Honeycomb, the first version of their OS built for tablets.
+
+The iPad 2 rumors continued. And rumors of the iPad 3 started! And so did new rumors about an “iPhone nano”. And, of course, the iPhone 5.
+
+Meanwhile, Apple’s stock continued to soar — they became the most valuable tech company by over $100 billion dollars.
+
+When Apple formally launched in-app subscriptions in the middle of the month, the shitstorm hit new highs. It sure looked like all kinds of apps ranging from Dropbox to Pandora were in danger of having to drastically alter their business models to work with Apple.
+
+Work on OS X Lion was wrapping up — and a developer preview hit. Work on a new Final Cut Pro version was also believed to be nearing completion.
+
+Whispers of new MacBook Pros started, potentially with something called “Thunderbolt“. A few days later, they hit.
+
+
+
+March
+
+It started out with a bang as Apple held an event with a special guest — Steve Jobs. He wasn’t about to let his medical leave let him miss the iPad 2 unveiling.
+
+One of the cooler new elements of the iPad 2: the Smart Cover.
+
+On March 11, the iPad 2 went on sale in the U.S. and a handful of other countries. A few weeks later, it went on sale in 25 more countries.
+
+On March 23, Apple announced that Bertrand Serlet, the SVP of Mac Software Engineering, was leaving the company. He had worked with Steve Jobs for 22 years. Craig Federighi, the driving force behind OS X Lion, took his place.
+
+Word started to get out that iOS 5 would be pushed to the fall, instead of a summer release. But the good news was that it sounded like Apple’s new cloud service would be launched at WWDC.
+
+Apple set the WWDC dates for early June. But it seemed clear this year would be different, with the fall playing a key role for iOS products instead of the summer.
+
+April
+
+News hit that an official Steve Jobs biography was being written and would be released in 2012. Of course, that plan changed later in the year.
+
+Apple announced the new Final Cut Pro X at NAB with a very attractive new price (thanks in part to the new Mac App Store distribution): $299.
+
+Meanwhile, left for dead, rumors of the white iPhone began to resurface. I even saw one at dinner one night in San Francisco. It became official on April 28.
+
+Apple earnings were a blow-out again with $24.67 billion in revenue on 18.65 million iPhones, 4.69 million iPads, and 3.76 million Macs sold in Q2. Apple’s quarter was so good that they actually surpassed Microsoft in terms of profitability, something which hadn’t happened in a couple decades.
+
+There was a flare up over location tracking information found in iOS (and Android phones). But it was largely overblown.
+
+
+
+May
+
+Apple kicked off the month by refreshing the iMac product line with better chips, graphics, and cameras.
+
+We started our reports on Apple and Nuance, which would turn out to be important later in the year when Siri was unveiled.
+
+Apple and Google were forced to defend themselves about location privacy in front of the Senate.
+
+A lot of talk started circulating that Apple was finalizing a deal with the record labels for a cloud music service.
+
+The name “iCloud” started gaining a lot of steam — and for good reason. On May 31, Apple actually pre-announced it ahead of WWDC. Weird.
+
+Meanwhile, we started hearing an interesting rumor: there would be Twitter integration in iOS 5.
+
+Talk also started picking up about an upcoming bid for Nortel patents…
+
+
+
+June
+
+On June 6, Apple held their WWDC keynote. OS X Lion, iOS 5, and iCloud were the main areas of focus. Among the more notable things: iMessage, Newsstand, and the aforementioned Twitter iOS 5 integration. Oh, and iTunes Match. There was nothing about a Nuance partnership however, that would come later.
+
+On June 7, Steve Jobs (still on medical leave) went to Cupertino City Hall to pitch Apple’s plan for a massive new headquarters in the city — one that looked like a spaceship.
+
+Amid pressure from multiple sides, Apple quietly backpedaled from their new (and not yet fully implemented) App Store in-app purchase and subscription rules. It was the right move.
+
+Apple’s stock continued its run. By June 13, Apple was worth more than Microsoft, HP, and Dell — combined.
+
+Nokia and Apple settled a patent dispute — after Apple agreed to pay up. Meanwhile, Apple’s patent war with Samsung continued.
+
+On June 21, Apple released new Time Capsules and released Final Cut Pro X into the Mac App Store. Massive backlash started immediately about the latter.
+
+Rumors of an actual Apple Television started popping up again. And with the WWDC no-show, new rumors about the next iPhone(s) started.
+
+
+
+July
+
+On July 1, it was revealed that not only had Google lost the Nortel patent bidding, but a familiar foe won them: Apple (along with others like Microsoft).
+
+The App Store hit 15 billion downloads.
+
+Apple destroyed earnings estimates once again in Q3 with record revenues, profits, iPhone (over 20 million), and iPad sales. As a result, Apple shot past $400 a share on the stock market.
+
+On July 20, Apple updated the Mac Mini, the MacBook Air, and their displays (now with Thunderbolt power).
+
+Also released: OS X Lion.
+
+By late July, Apple had more cash (and cash equivalents) on its books than the U.S. government.
+
+August
+
+Apple quietly launched the ability stream television shows from their cloud.
+
+Google got really mad about Apple and Microsoft’s patent strategy.
+
+On August 9, Apple pushed past Exxon to become the most valuable (in terms of market cap) public company in the world. For the rest of the year, they would go back and forth.
+
+The launch of Steve Jobs’ biography was pushed up to November of 2011 (up from 2012).
+
+Referencing the success of the iPad, HP shocks the world by saying they’re not only giving up on tablets, but looking to get out of the PC game as well (they would later backtrack on this after a CEO change).
+
+Talk suggests the next iPhone will be a GSM/CDMA dual-mode one. Meanwhile, talk starts to circulate that Sprint will be getting the next iPhone as well (though the stuff about an iPhone 5 exclusive turns out to be nonsense).
+
+On August 24, a shockwave is sent around the Apple universe when Steve Jobs formally steps down as CEO. While he had been on medical leave since January, this was a clear sign that he didn’t think he would ever feel well enough to return fulltime. Jobs asks the Apple Board to appoint Tim Cook as CEO (which they do) and asks to stay on the Board as well (which he does).
+
+September
+
+“iPhone 5” rumors hit a fever-pitch but not much actually happens in the month leading up to October…
+
+
+
+October
+
+Apple holds an event on October 4 to unveil the iPhone 4S.
+
+But the star of the show is Siri, the new iOS 5 feature exclusive to the iPhone 4S. Also new to iOS 5 is Find My Friends.
+
+With the 4S, the iPhone 4 price goes to $99 (with a contract). And the iPhone 3GS goes free (with a contract).
+
+Apple announces that 6 million copies of OS X Lion have been sold, outpacing Snow Leopard. They also announce that iTunes now has over 20 million songs which have been downloaded 16 billion times. Apple also announces that 300 million iPods have been sold in 10 years. Tim Cook also says that 250 million iOS devices have now been sold.
+
+On October 5, just one day after Apple’s iPhone 4S event, Apple announces that Steve Jobs passed away earlier that day. Worldwide, tributes to Jobs begin to appear and this lasts for weeks.
+
+After days of mourning, Apple starts iPhone 4S pre-orders, which top 1 million in just 24 hours.
+
+On October 12, iOS 5 is released.
+
+Two days later, the 4S goes on sale and in the first weekend alone, over 4 million units are sold — double the pace of the iPhone 4.
+
+Apple’s Q4 numbers were a bit of a surprise for many, because for the first time in several years, they actually missed on Wall Street’s expectations.
+
+Apple’s stock plunged as a result of the miss, and Tim Cook did something odd: he went on the record predicting record iPhone and iPad sales in the upcoming quarter (Apple’s holiday quarter).
+
+Following Jobs’ passing, the release date of his biography was moved up again, to October 23.
+
+Leading up to the day, several excerpts from the book were leaked. The most intriguing one revolved around Jobs’ comment about Apple finally “cracking” the television market.
+
+On October 24, Apple quietly updated the MacBook Pro line again (though very subtly). They also tweaked the Smart Cover colors.
+
+By the end of the month, many iPhone 4S users are experiencing battery issues (Apple begins work on a software update to fix them).
+
+
+
+November
+
+On November 8, Adobe announced they’ll be winding down support for Flash on mobile devices. This was long a sore point between Apple and Adobe, to say the least.
+
+Five years after it was released, Apple recalled the first generation iPod nano.
+
+On November 14, iTunes Match officially finally launched — it had been promised by October.
+
+Rumors of a 15-inch MacBook Air (or thin Pro) begin. More rumors of a “Retina” iPad 3 also surface. And the talk of a larger-screen iPhone 5 starts up again.
+
+December
+
+Talk starts to pick up again that Tim Cook is open to the idea of Apple issuing a dividend to shareholders as their cash supply approaches $100 billion.
+
+The patent nonsense continues. Depending on which country you select, Apple or one of their rivals may be banned from importing their devices. But not really since there will be endless appeals.
+
+Apple announced their “iTunes Rewind” apps of the year awards. Instagram wins for the iPhone, Snapseed for the iPad.
+
+Apple announced 100 million downloads from the Mac App Store in less than a year.
+
+In mid-December, it’s reported that Apple bought flash memory company Anobit, for several hundred million.
+
+The iPad 3 unveiling is rumored to be weeks away…
+
+Business as usual despite a crazy year. 2012 should be the most fascinating one yet.
