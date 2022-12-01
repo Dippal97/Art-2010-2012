@@ -1,0 +1,84 @@
+Apple Business Strategy 2012
+by Christopher Meyeron 02/19/20122 comments
+ScroogeA firm’s business strategy reflects its leaders.  Under Steve Jobs, Apple differentiated itself through elegantly simple design.  This piece explores Apple’s business strategy in the first full year of Tim Cook’s leadership.
+
+Already, we can see Tim Cook is changing Apple.  In contrast to Jobs’ rare appearance before the press and analysts, Cook took the opportunity to discuss Apple’s business strategy at the recent Goldman Sachs’ Technology Conference.  When questioned about the future of the iPhone, Apple’s largest revenue stream, Cook underscored that smartphones only represent 9% of the global handset market and even within smartphones, 3 out of 4 customers bought something other than Apple.
+
+Apple manufacturing partners and practices have also come into the spotlight following the unprecedented disclosure of their supply chain partner audit combined with the hiring of a third party employment practices review agency.  Most recently, Apple invited ABC Nightline into their primary supplier Foxconn.  In increasing increments, Cook is making Apple more accessible.
+
+In the past, his operational expertise has been a perfect counter to Jobs’ legendary product instincts and will serve Apple this year.  What we won’t learn in 2012 is whether Cook can plant the seeds for a new platform in the years beyond.  It’s a no-brainer to assume Apple Labs is cooking away.  There just won’t be much evidence in 2012.
+
+What we can expect is that Apple will continue to get paid for the integrated value they deliver.  Apple products initially cost more than most competitors.  They win by tightly integrating hardware and software for a superior user experience.  Many would argue Apple’s integration provides a lower aggregate cost as well.
+
+Apple 2012
+
+2012 will be dominated by the following four themes, all targeted at cementing users and developers into Apple’s lush, walled garden of peerless user experience:
+
+Scaling all operations (manufacturing, retail, Internet) to meet global demand
+Rapid expansion in China and developing economies
+New product form factor:  Apple TV
+Apple’s iCash Mountain Problem
+1. Scaling:  Flawlessly Synchronizing Billions of Transactions
+
+With revenue greater than $46B in the fourth calendar quarter of 2011, any conversation about Apple strategy has to begin with the challenges of scale.  The iPhone and iPad have plenty of runway left for growth as does Apple retail, but as numbers grow, so do the consequences of the smallest hiccup.
+
+Meeting demand for hundreds of millions of annual units requires flawless execution across the supply chain, distribution and with their manufacturing partners.   We’ve become so accustomed to high tech products that it’s easy to forget what a shortage of a single component can do.  When floods struck Thailand last fall, it disrupted disk drive supplies for nearly six months.
+
+Last year, Apple sold 156 million IOS-based devices (iPhone, iPad and iTouch) which is more than the 122 million Macs sold since its 1984 introduction.  In Tim Cook’s own words, “the trajectory is off the charts.”
+
+Geometric growth plays to Cook’s strengths.  In fact, if there’s a hallmark to Apple’s business strategy in 2012, it begins with leveraging his unique competencies.
+
+2. China…and other developing countries
+
+Any conversation about scaling quickly turns to Apple’s China opportunity.  Focusing just on iPhone, Apple currently sells it exclusively through China Unicom (196 million subscribers).  This is slightly less than the combined subscriber base of Verizon Wireless and AT&T.  But in a country of billions, it doesn’t compare to China Mobile’s 616 million subscribers. It’s no surprise that Cook visited China Mobile this past June.
+
+As important as Apple’s innovation machine has been for the developed world, 2012 success in China and emerging economies will be fed by incremental product improvements.  They may be combined with creative cost and/or pricing strategies that subsidize purchasing much like Verizon and AT&T has for U.S. iPhone customers.  With rapidly growing middle classes, one might consider market access more important in the developing world than ground-breaking innovation.
+
+And the above doesn’t account for iPad or iTouch.  Apple’s Asia Pacific sales (minus Japan) grew approximately 200% last year and account for 20% of Apple’s total revenue.  Add in an expanded global retail presence and there’s not much that stands in the way of superior revenue growth in 2012.
+
+3. Next Platform Form Factor:  Apple TV
+
+The speculation regarding an Apple “next generation television” has evolved significantly.  According to Cook, the current Apple TV hockey puck has been a “hobby” product.  Shortly before his death, Steve Jobs told biographer Walter Isaacson that he had finally figured out TV.  True or false, there are several reasons why flat screen TV’s make sense for Apple:
+
+Market size & headroom for premium pricing: The global market for flat screen displays is over 77 million units and grew 15% last year.  Apple needs large markets like this to move the needle even if they only appeal to the high end of the market.
+Platform expansion via form factor: Just as the iPad is essentially a larger iPhone, an Apple flat screen will enlarge the form factor again.  It will leverage technologies such as Siri for a new control interface.  Facetime will evolve into home video conferencing, likely enhanced by motion sensing technology that automatically follows action. As connection speeds improve, iCloud based recording (currently limited by upload speeds) and playback (available today) will be incorporated.
+Apple ecosystem lock-in: Just as Frito-Lay thinks about the “share of stomach” it captures with drinks and snack foods, Apple seeks “share of screens” be it on Mac, iPod, iPhone or iPad.  Just as salty snacks drive you to drink more soda, Apple TV will leverage device interoperability via iCloud.  Apple TV widens the moat that keeps competitors away while fertilizing the soil in land of Apple.
+Innovation Bluebird: Borrowing from Donald Rumsfield, the biggest unknowable that we know today is that Apple’s legions of independent apps developers will provide something surprising.  The causal gaming phenomena of Angry Birds didn’t exist before mobile apps. TV will offer a new and much larger landscape in which to play.
+Hardware opportunity: As important as iTunes, mobile advertising and iCloud may be in Apple’s future, they currently constitute a thin sliver of overall revenue and profits.  For now, the route to growth remains hardware.
+But Apple TV will face challenges.  First are the flat screen incumbents.  LG, Samsung and Visio have not been sleeping and will quickly counter Apple’s moves at lower price points.  They will most likely scale Google’s Android interface; perhaps a long shot might be Microsoft.  Assuming Apple pushes Facetime as a family video conferencing play, you can bet that competitors will counter with a similar feature based on Google Voice or Microsoft’s Skype and Kinect technology.
+
+The second and more troublesome foe will be current content producers and distributors.  After watching Apple iTunes disrupt music distribution, pricing and margins, movie and TV studios as well as cable, satellite and phone companies will be very wary.  If you need evidence of their strength, just look at Neflix’s recent struggles (see Netflix at a Crossroad).
+
+Can Apple drive the same disruption through television that they did in mobile phones?  Without question, Apple will make good money but we won’t know if it’s only a good business or a more serious disruption in 2012.
+
+4. Apple’s iCash Mountain Problem
+
+Do you recall the mountain of cash Donald Duck’s rich uncle Scrooge McDuck possessed?   Tim Cook has a $100B mountain and it’s rapidly growing.  Far beyond what’s needed for a rainy day, Cook cannot continue to ignore it.
+
+Declaring a special dividend to return some to stockholders is simple but hardly strategic.  Technology acquisitions like the 2008 acquisition of P.A. Semi which brought the iPad’s ARM processor in-house will continue, but they don’t dent the bank.
+
+The current maelstrom of patent lawsuits in the mobile space suggests that Apple will ultimately use some to settle issues much as Google did with its acquisition of Motorola Mobility.
+
+Similarly some will go to addressing market expansion issues such as the current licensing spat between Apple and China’s Proview regarding use of the iPad trade name in China.  Or Apple could follow Amazon’s Kindle strategy and subsidize hardware pricing to lower entry price.
+
+The problem is none of these strategies drain more cash than is coming in. The obvious next question is what if Apple pursued a large acquisition?  This raises three significant challenges, at a minimum:
+
+Regulatory:  As the most valuable company on earth, regulators in all geographies would scrutinize any deal for monopoly concerns.  It’s hard to think of a large technology acquisition that wouldn’t cause concern.
+Cultural fit: Strong cultures exclude rather than include.  Add in Apple’s penchant for secrecy and try to name an asset of scale that would naturally fit in the Apple world.  I can’t.
+Assimilation capability: Companies such as Cisco that have a track record of acquiring and assimilating large entities; Apple has never done so.  Starting with a big bite would be challenging.
+Having said this, Apple could acquire an infrastructure capability outside of traditional tech that enriched the breadth of Apple’s ecosystem.  For example, what if Apple acquired a financial services player?   Blend Apple’s mobility hardware/software, advertising and iTunes to offer an electronic wallet with Apple’s legendary ease of use?
+
+Apple could buy a “no-name” bank and quietly use their existing financial infrastructure to leverage its 200 million iTunes customers and software expertise into an Apple iWallet.  In the midrange, they could look at Intuit ($17B market capitalization) though that might raise regulatory flags.  Alternatively, they could go big, buy Mastercard ($50B market capitalization).
+
+Stepping outside the technology arena would reduce regulatory monopoly concerns while leveraging Apple’s technology, branding and retail expertise.  Going big doesn’t directly address the cultural fit and assimilation issues but neither does it require much in the near term.  Mastercard is a well-run, growing firm.
+
+Please take above for what it is: an example to illustrate a strategic choice versus a fully vetted alternative.
+
+Summary
+
+Apple’s business strategy 2012 has three elements:
+
+Leveraging momentum with scale
+Expanding the walled garden geography and IOS foundation
+Investing in new directions:  new product platform innovation and cash
+If we were playing poker, the first two elements are cards that are face up.  The third is not.  And that’s the bet we’re waiting to see.

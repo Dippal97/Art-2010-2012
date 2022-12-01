@@ -1,0 +1,259 @@
+Apple’s 2012 in Review: Archetypes, executive shuffles, patents and still no televisions
+
+December 24, 2012 - 10:07 pm
+Apple’s 2012 in Review: Archetypes, executive shuffles, patents and still no televisions
+Matthew Panzarino
+STORY BY
+Matthew Panzarino
+Matthew Panzarino was Managing Editor at TNW. He's no longer with the company, but you can follow him on Twitter. (show all)
+Apple had a packed 2012. With a refresh of almost its entire lineup, an executive reshuffle that changed the face of the company and an enormous patent victory over Samsung, it was one for the books.
+
+Apple and Education
+Apple kicked off 2012 with an event in New York city centered around iBooks 2 and the new iBooks Author tool. iBooks Author is a far from perfect but still very robust creation tool that Apple put in the hands of creators in order to help them fill the iBookstore with better looking and working books.
+
+At the same time, Apple launched a textbooks initiative in partnership with major publishers that would put digital versions of expensive textbooks in the store for around $15 or so. The program has yet to set the world on fire, though there is a larger selection of textbooks to be found in the iBookstore now and they’re generally of higher quality and presentation than those in most other ebook stores.
+
+Mountain Lion
+Join TNW in Valencia!
+The heart of tech is coming to the heart of the Mediterranean
+
+Apple released the latest version of its OS X software for Macs this year, in what is becoming a tick-tock pattern of versions major and minor. Mountain Lion was on the minor swing, and served to integrate many iCloud features and iOS standbys to take advantage of the iDevice halo.
+
+Apple’s introduction of Mountain Lion was handled in a new way for Apple. Executives, including head of Product Marketing Phil Schiller, called in a set of journalists and writers to a secret meeting in New York City. There, they introduced Mountain Lion and briefed them on the surprise announcement.
+
+“We’re starting to do some things differently,” Schiller told Daring Fireball’s John Gruber. And that proved to be true throughout the year.
+
+We reviewed Mountain Lion and found it to be evidence that Apple sees a future where the majority of people do their computing on mobile platforms first.
+
+Mountain Lion is designed to take advantage of the significant halo effect of the iPhone, iPad and whatever other iOS devices the company introduces this year. Future versions of OS X will continue to take on the trappings of the mobile platform in order to make people feel comfortable and in order to make the two very different platforms feel like a cohesive whole.
+
+Within two months, sales of Mountain Lion had topped 7 million.
+
+Apple became the most valuable company ever, as long as you don’t count inflation.
+Apple hit $620B in market cap in August, just over a year after it became the most valuable traded company in the world. But that doesn’t account for inflation, in which case Microsoft would still be in the lead with a value of $850M in December of 1999. Microsoft is currently worth $257B.
+
+Apple comes under fire for working conditions in its factories
+
+
+An ongoing series of New York Times articles including How the U.S. Lost Out on iPhone Work and In China, Human Costs Are Built Into an iPad, examined life in Apple supplier Foxconn’s factories. Joel Johnson’s 1 Million Workers. 90 Million iPhones. 17 Suicides. Who’s to Blame? article in Wired also tackled the tough questions that arose after a series of workers took their own lives at Foxconn facilities.
+
+After those reports, Apple announced that it had reached out to the Fair Labor Association, a non-profit that investigates working conditions for laborers around the world. The organization was asked to perform voluntary audits for Apple on the Foxconn plants in Chengdu and Shenzen China, where it manufactures products like the iPad.
+
+It later delivered a mostly complimentary report about Apple’s progress in fixing the issues at Foxconn.
+
+It then allowed ABC News access to its factories, where the organization found a work environment it described as mind-numbingly monotonous, but did not uncover any major negative revelations.
+
+Apple CEO Tim Cook addressed issues surrounding working conditions in China at a Goldman Sachs conference February of 2012.“Apple takes working conditions very seriously,” said Cook, launching right into a question about how Apple handles working conditions. “We take the conditions of workers very seriously. I worked in factories, I worked at a paper mill. We understand working conditions at a very granular level.”
+
+Foxconn factories enlist underage workers as ‘interns’ to meet demand
+Just when things looked like they were dying down, several Chinese publications noted that Apple supplier Foxconn was employing interns from local universities to compensate for labor shortages in advance of the latest iPhone. Those interns were under the legal working age and were said to be ‘forced’ to take the positions.
+
+A Foxconn spokesperson later admitted to TNW that some students which partook in its short-term internship program were below China’s legal working age of 16 years. It was quick to distance the factories that this took place in from those that produce Apple products. A sentiment it backed up in a statement to the Wall Street Journal.
+
+This American Life airs expose of Apple’s working conditions in China, then retracts it.
+The popular public radio program This American Life discovered and admitted that a show it ran in early January of 2012 entitled Mr. Daisey and the Apple Factory, was partially fabricated. The show painted a rough image of life for workers at the Foxconn facilities in China, where Apple produces many of its devices including the iPad and iPhone. It then retracted the show, which was based on visits that Monologuist Mike Daisey made to China and the fabrications that he produced based on those visits.
+
+Apple continues to monitor factory conditions and now tracks over 1M workers in its supply chain, with some 88% compliance in the Chinese maximum of a 60-hour work week.
+
+The EPEAT Saga
+
+
+The Electronic Product Environmental Assessment Tool is a ranking system for customers that allows them to, theoretically, decide between one computer and another based on how environmentally friendly they are.
+
+In July, Apple removed all of its products from the registry of the EPEAT, the organization of the same name which decides the standard and issues product ratings. After a fair amount of pushback from city organizations and press outlets, Apple’s hardware chief Bob Mansfield said that the company would bring its products back to the registry and work with the organization to improve the standards by which it judged products.
+
+“We’ve recently heard from many loyal Apple customers who were disappointed to learn that we had removed our products from the EPEAT rating system,” said Mansfield. “I recognize that this was a mistake. Starting today, all eligible Apple products are back on EPEAT.”
+
+Shortly after the products were added back to the registry, we speculated that there would indeed be changes to the standards by which it rated computer, and that they would be friendly to the new way Apple was building its computers:
+
+And why would Apple have ditched the EPEAT standard if it didn’t think it was going to have issues with products like the Retina MacBook? It will be interesting to see what happens when it undergoes the verification procedure. EPEAT CEO Robert Frisbee told Fast Company  that it was “likely the MacBook Pro with Retina display will jump the queue and an EPEAT verification of the computer will likely be a priority.”
+
+In a letter at the EPEAT, Frisbee addresses the issue of an updated standard obliquely:
+
+“An interesting question for EPEAT is how to reward innovations that are not yet envisioned with standards that are fixed at a point in time”
+
+Let me shake my translation ball one last time. “Whatever standards we’re going to use to test the Retina MacBook Pro will be updated to take into account Apple’s fancy new manufacturing techniques.”
+
+In the end, that’s exactly what happened, as the EPEAT re-evaluated the Retina MacBook Pro and awarded it a Gold rating.
+
+Many of those changes centered around the modern manufacturing techniques that Apple is using to fill the spare space inside its devices with batteries. These compartmentalized and asymmetrical packets are glued into the casing, making them tougher to remove when repairing the devices.
+
+In a piece entitled Retina Macbook Pro sound of inevitability, we explored what it meant for Apple to produce products that pushed the envelope in build quality and features at the expense of their ability to be repaired. It’s a shift that we haven’t seen the end of yet, and we expect it to continue to be a matter of contention for the pro-repairability crowd.
+
+Retina MacBook Pro
+
+
+This year saw the release of Retina MacBook Pro models in 15″ and later, a 13″ version. A Retina-level screen on a laptop may seem like an inevitability, but it was well ahead of the curve of the rest of the industry.
+
+We reviewed the 15″ model and found it to be solid, but not without its quirks. Most of those having to do with performance issues caused by pushing so many pixels.
+
+Still, the Retina MacBook Pro is Apple at its best. Pushing the envelope hard to perfect technology and drive competitors to catch up to their levels. This aspect of Apple as an innovator is often overlooked. Especially because those leaps typically come combined with a carefully iterated product that has been simplified wherever possible.
+
+From our review:
+
+To say that Apple takes technology that already exists and produces its own unique brand of products (which may not be for everyone) is totally fair. But to say that this means that it doesn’t innovate is narrow-sighted and silly. If you step back and look at the bigger picture you’ll see differently.
+
+In some ways, we’ve all caught the wave of Apple’s wake, regardless of what kind of device we use. And that’s innovative.
+
+The UDID Hack
+Apple had been warning developers for some time to stop using a device’s Unique Device ID to track it for advertising, upgrade or any other purpose. The use of UDIDs had been very prominent with ad networks, though there are definitely some legitimate non-ad uses of these identifiers. In May of this year, it started banning some apps that were using them in even ‘ok’ ways.
+
+At the time, we mentioned that if Apple was banning developers for using them, then it needed to provide a good alternative. Later this year, at the release of iOS 6, Apple delivered that with the Advertising Identifier. A number that was unique but not tied specifically to a piece of hardware, and one that could be changed when reset.
+
+Some advertisers still feel that this is a poor option, but Apple now allows users to limit ad tracking with a toggle in the Settings app. This makes it harder on developers, but easier on consumers looking to limit how much information they share about their habits. It also likely fulfills a promise that Apple made to a Senate subcommittee that it was going to make privacy issues more transparent for its users in the future.
+
+The issues surrounding UDID exposure and tracking came to a head late in the year when a database containing 1 million of these numbers was exposed by the AntiSec hacking group. The group claimed to have retrieved them from the laptop of an FBI agent but the agency denied the claims.
+
+When the hack went down, we provided a custom-made tool that allowed you to check (in a secure page and without retaining any numbers in our records) whether or not your UDID was in the list of compromised records released by AntiSec.
+
+The true origin was revealed when Paul Dehart, CEO of Blue Toad, came forward and said that the UDIDs came from the company’s servers. The company, which makes software for publishers, was obviously one who had been using it to track advertising and other habits.
+
+Apple and Patents
+
+
+The patent battle between Apple and its electronics rival Samsung finally came to a head this year. After a trial that lasted weeks and revealed dozens of prototype Apple devices and tons of other juicy tidbits about the normally secretive company, a jury awarded it a near complete victory. The damages that Samsung would have to pay were to the tune of $1B, though some mistakes by the jurors later winnowed that down a bit.
+
+Though, especially in retrospect after the details of Apple’s arguments were laid out extensively, it is obvious that Samsung was incredibly heavily borrowing from what Apple was doing. Let’s call it copying, because that’s what the court has done. But a negative verdict doesn’t hurt its bottom line. And it does make it more likely we’ll see devices that may not all have the multitouch features that they could have otherwise, which is a bummer.
+
+But we should also get things that feel and look ‘more’ different than they ever have. This trial and many others like it are absolutely not about the money, of which Apple has more than it needs by far. They’re also not about banning devices that will be obsolete by the time a trial would end.
+
+They’re about deterrent, about making the next manufacturer thing twice before styling its icons like Apple’s, or copying its industrial design too closely.
+
+If there was one good thing that came out of the trial it’s a lesson — learned from the extensive array of iPhone prototypes on display — in the power of saying no to things:
+
+That’s what all of these prototypes are. The result of taking something good and throwing it away in the pursuit of something great.
+
+…
+
+I like to call this the ‘if you build it, they will come‘ mentality. There has to be a willingness on the behalf of the creator to build something great, with the faith that people will realize its greatness and make it successful. There are some other companies out there that make this their motto, but most of them aren’t large tech firms with billions at stake.
+
+What Apple does may not be possible for every product company. But its tenets are clear. Build what you feel is the absolute best product that you can, don’t be afraid to say no, never stop at good. Listen to the needs of the market, but not too hard, because people can be myopic and it’s your job to help them see why you feel it’s great.
+
+In addition to the Samsung case, Apple also ended up with another major cap to one of its many ongoing bits of patent litigation when it settled in a case with HTC. The manufacturer signed a 10-year licensing agreement to many of Apple’s technical patents, though its access to design patents were limited. It also agreed to a ‘do not clone’ clause that is designed to stop iPhone lookalikes.
+
+But not everyone was happy with Apple’s aggressive pursuit of what it perceived to be patent infringers. Judge Richard Poesner dismissed a case that Apple had brought against Motorola over patents and said that it wasn’t clear that we needed patents in all industries.
+
+Poesner compared the current patent litigation system to a jungle where “the animals will use all the means at their disposal, all their teeth and claws that are permitted by the ecosystem.”
+
+Apple’s Year In Announcements
+
+
+It was a banner year for hardware and software for Apple. CEO Tim Cook told an interviewer in early December that 80% of Apple’s revenue came from products that did not exist 60 days ago.”
+
+Among those announcements were two 9.7″ iPads. One, the ‘iPad 3‘, announced early in the year and the other, ostensibly the iPad 4, announced in October alongside the iPad mini.
+
+We found the iPad 3 to be a capable device that continued along Apple’s path of making the hardware disappear:
+
+This vision has been emulated by every other tablet manufacturer much in the way that the iPhone has influenced the design of almost every smartphone maker in the world since its release. The iPad isn’t just a tablet, it is ‘the’ tablet, the mold in which every other one has been created since.
+
+The enormous sales numbers of the iPad show that Apple’s courage to concentrate on making our computing feel more natural has paid off. It works against conventional wisdom by avoiding the ‘look what I can do’ mentality that is pervasive in our technology. All of its components are devoted to helping it deliver an experience that feels effortless and human, without the feeling that it is trying to impress you with its features, which is what makes it so good.
+
+Apple followed its third-quarter release schedule for the iPhone, with the iPhone 5 arriving in September. The iPhone 5 featured a larger 4″ screen, 4G LTE connectivity, Apple’s A6 chip with 2x faster CPU and 2X faster graphics capabilities, improved battery life, wideband audio and a faster, 8MP camera.
+
+The iPhone 5 completed the transformation of Apple’s phone into something of an archetype. By trimming away the extraneous details, it’s become both an icon and an example of the Information Appliance concept reduced to its simplest form.
+
+Interestingly, there was a significant backlash in the press from many who thought it boring. Some of it hyperbole and some of it well-reasoned. Here’s how I explained the reaction in my review:
+
+Apple actually managed to create a phone that’s so good it has become an archetype. And when things become archetypes, they become intrinsically less interesting to people who thrive on dissonance and disruption. That’s why the iPhone 5 got such a converse reaction from the tech press when it was revealed. It’s an exercise in precision and restraint, not a play for our wildest imaginations.
+
+When Apple’s Jony Ive says that they “take changing the iPhone very seriously”, it doesn’t mean that they’re averse to changing it at all, it just means that they’re only going to change the parts that would make it work better. The radical re-imagining stages of the way that the iPhone looks are over, but the process goes on at magma-hot levels inside, and there’s a ways left to go.
+
+Late in the year, the iPad mini and iPad 4 were introduced. The mini, as a new smaller flavor of Apple’s iPad, was priced substantially higher than most estimates. But those estimates were often based on the iPad mini as a competitor to small tablets from other makers.
+
+You can’t have it both ways. You can’t argue that the iPad mini is priced out of the market at $329 and then turn around and say Apple is entering the small tablet business as a reaction to Google and Amazon. If the iPad mini was a reaction to the Kindle Fire HD and the Nexus 7, then Apple would have released the 8GB version of the iPad mini that many people, including me, have heard was on the block for months, and they would have done it at $249.
+
+But the iPad mini ends up being the right tablet for a lot of people, and at the best price available for an iPad, which is the real market. I would be very surprised not to see massive sales of this device in Q1 of 2013.
+
+Apple’s iOS 6
+
+
+Apple also released the latest version of its iOS operating system this year. We have an exhaustive review of iOS 6 here, but the gist of it is once again refinement. More integration with iCloud and other services like Facebook, along with improvements to Siri made it a nice, if not Earth-shattering upgrade.
+
+The story about it really became one of Apple furthering its distance from rival, especially in services reliance. The YouTube app was removed from the home screen in a move that actually turned out fairly well for Google. It was finally able to ship ads in the YouTube app, and users will get an experience that is being iterated on much faster than the app built by Apple, which had remained mostly unchanged since its introduction.
+
+In keeping with that theme of separation, Apple also removed Google Maps from iOS and replaced it with its own version. Though necessary for the future of Apple’s platform, the band-aid rip turned out to be more trouble than it had bargained for.
+
+Simply put: mapping is hard. Google’s been doing it for years, with thousands of employees tasked to making sure they’re accurate. Unfortunately, Apple underestimated its task and delivered a Maps product that was far from mature.
+
+While the mechanics of the app are nicely implemented, the point-of-interest data specifically had some major issues. This led to a rumor that Apple was reaching out to mapping provider TomTom for advice on fixing it, and later on, hints of a Foursquare data partnership.
+
+We actually think that Foursquare partnership might not be the worst thing for Apple, and not just because of maps.
+
+Now that Apple is very much a services company, we argued, it has a responsibility to its users to make sure that those services are robust and reliable. Tim Cook agreed, and issued an apology for the state of maps, promising improvement.
+
+The Google Maps launch on iOS highlighted that there was definitely a desire for better, more reliable maps on the platform. It garnered 10 million downloads on the App Store in under 48 hours. This also highlighted that Google is undergoing somewhat of a renaissance on iOS, finding its design voice on the platform at last.
+
+Tim Cook’s First Year
+
+
+This was modern-era Apple’s first full year without founder Steve Jobs. Though Tim Cook had acted as CEO several times before, this was really his first year solo. Though the company continued to develop products in much the same way, Cook was more than usually open about its plans and its reasoning for strategic moves.
+
+He also gave extensive interviews to Brian Williams and Businessweek, speaking plainly about many things Apple. Among the topics discussed were the executive shuffle that took place late in the year, and that Apple was looking to bring Mac production back to the US in 2013.
+
+He put his stamp on the company in a decisive way by making the biggest changes to its executive staff in nearly a decade. He exited iOS head Scott Forstall and split his responsibilities between software chief Craig Federighi and services maestro Eddy Cue. Cue took on fixing Maps, just as he fixed MobileMe.
+
+Hardware guru Bob Mansfield was put in charge of a Technologies division dedicated to developing Apple’s custom silicon and wireless technologies. Industrial designer Jony Ive was handed the ability to control not just Apple’s hardware, but all human interface design at the company.
+
+We explored what the changes might mean for Apple’s next era:
+
+The changes at Apple are designed to make sure that the company works towards the goal of making those personal computers work as seamlessly as possible with your work stations and other devices. With the removal of Forstall, Cook is not assigning a single executive to take over his slot.
+
+Instead, he’s making choices that will foster communication and cooperation between the various compartments of the company needed to pull off a mobile-first Apple.
+
+Apple television
+
+
+Apple sold 1.3 million Apple TVs in the fourth quarter of 2012. That’s up 100% year-over-year and Cook said that they had sold 5 million overall in the fiscal year.
+
+Cook echoed his earlier statements that the Apple TV was a hobby, but bumped up his outlook on it slightly saying that it was a ‘beloved’ hobby.
+
+In July, Cook said that “We think [Apple TV] will lead us somewhere., we’ll keep pulling the string,” said Cook, adding that it was still ‘a hobby.’ At that time, he said that Apple had sold 1.3 million Apple TVs in the third quarter, with 4 million so far in the year.
+
+Back in May, Cook said that Apple had sold some 2.7 million so far in 2012. That means that Apple has sold some 1.3 million units in roughly 2 months.
+
+“We’re not a hobby kind of company as you know,” said Cook at the All Things D conference in May. “Our tendency is to do very few things. And, if something creeps in and isn’t a big success, we get it out of the way and put our energies on something else. With Apple TV though, you see what we’ve done. We’ve stuck in this, it’s not the fifth leg of the stool. It’s not the same size as the iPhone or Mac or tablet business. But last year we sold a little less than three million Apple TVs.”
+
+Financial Performance
+Apple’s fiscal year was typically strong, but showed some deeper fluctuations in revenue than typical. Year-over-year growth was down,however, leading some Apple Bears to get a bit louder about the chances that its stock would take a downturn. In the weeks before the end of the year, the stock fell from over $700 to the high $400’s.
+
+iPhone and iPad growth remained strong, though the last two quarters of iPhone were unusually flat as the iPhone 5 was released very late in the year. The first fiscal quarter of next year should be an interesting one, as iPad mini, iPhone 5 and increasingly strong Mac sales should make a big impact.
+
+First quarter
+Apple’s revenue amounted to $46.33B in Q1. With earnings of $13.87 per share. The company’s net profit in Q1 was $13.06B. These numbers destroyed industry estimates across the board in every area of hardware sales and profitability aside from iPods.
+
+Apple sold 37.04M iPhones, up 128% year over year, and 15.43M iPads this quarter, up 111% year over year. Apple sold 5.2M Macs during the quarter, bringing sales up 26% when compared to the same quarter a year ago. iPod sales were down 21%.
+
+Second quarter
+Apple’s revenue amounted to $39.2B in Q2. With earnings of $13.87 per share. The company’s net profit in Q2 was $11.6B. The numbers beat industry estimates but were down from the company’s previous record quarter.
+
+Apple sold 35.1 million iPhones and 11.8 million iPads this quarter. The company sold 4 million Macs during the quarter, bringing sales up 7% when compared to the same quarter a year ago. Apple sold 7.7 million iPods.
+
+Looking over the figures, Apple saw iPhone sales drop 5.5% over the quarter, with iPad slipping 23.53%, despite an impressive launch
+
+Third quarter
+Apple’s revenue amounted to $35B in Q3. With earnings of $9.32 per share. The company’s net profit in Q3 was $8.8B. These numbers ‘missed’ industry estimates slightly but beat Apple’s own estimates.
+
+Note that Apple’s estimates are typically low, but it still did edge itself out by a bit over a billion in profit. The industry estimates by both independents and professionals are what cause people to say this is a ‘miss’, but those estimates are rarely correct anyhow.
+
+Apple sold 26M iPhones, up 28% year over year, and 17M iPads this quarter, up 84% year over year. Apple sold 4M Macs during the quarter, bringing sales up 2% when compared to the same quarter a year ago. iPod sales were at 6.8M down 10%.
+
+Fourth quarter
+Apple’s revenue amounted to $36 billion in Q4. With earnings of $8.67 per share. Apple posted $8.2 billion in profit. The revenue numbers beat industry estimates, but profit did not.
+
+Apple sold 25.9 million iPhones, up 58% year over year, and 14 million iPads this quarter, up 26% year over year. Apple sold 4.9 million Macs during the quarter, bringing sales up 1% when compared to the same quarter a year ago. iPod sales were at 5.2 million down 19%.
+
+Apple now has a cash hoard, including cash, short term and long term investments, of some $123.3 billion after its newly announced dividend payout.
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
