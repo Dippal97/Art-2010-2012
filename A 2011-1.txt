@@ -1,0 +1,30 @@
+Apple’s Siri Is as Revolutionary as the Mac
+by James Allworth
+October 13, 2011
+Tweet
+Post
+Share
+Save
+Buy Copies
+Print
+The initial reaction to the iPhone 4S was cooler than Apple might have hoped. Expectations had been hyped to such a point that people were looking for a leap forward equivalent to the first iPhone. When they couldn’t immediately see it, many were disappointed. But that leap was there — it’s just not one that is easily seen. Siri, the new iPhone’s voice-control software, is going to have as big an impact as that first iPhone did. It’s going to fundamentally change our relationship with computers.
+
+Almost everyone referenced the Mac when they were eulogizing Steve Jobs last week. There’s no doubting the importance of that little machine — it revolutionized computing, by making it accessible to those without specialized knowledge. Traditional human/computer interaction was turned on its head: not only did the Mac represent the first broad adoption of the mouse, but also of the graphical user interface. No longer did you have to type commands into Unix or DOS to get a computer to do what you wanted it to do. Instead, the Mac used a desktop metaphor — you moved the mouse and the cursor around the screen, like your hand moving across your desk.
+
+And yet as great an advance as it was, the keyboard and mouse is still a relatively unnatural way for us to interact with anything. Computer interfaces have, at best, tricked our body and our minds into familiarity. They’ve relied on concepts like muscle memory — where we associate gestures with an outcome to the point where we don’t even have to think about it — to try to help us locate commonly used tools, such as the Start or Apple menu. But these only paper over the problem. As more and more features have been added to our computers, the desktop metaphor — that the Mac introduced all those years ago — has long been stretched past breaking point. Novice users often don’t know where to begin. The touch paradigm introduced in the iPhone began to change that: it removed the intermediary of the mouse and the cursor. But even still, unnecessary complexity remains. Why does a user care whether a message from a friend is an email or an SMS? Why should they have to concern themselves with opening a browser or a specific app to find out what the weather is going to be tomorrow?
+
+And try as we might to design hardware that is ergonomic, there’s no denying the impact this technology has had on our bodies. Repetitive strain injury, degradation of eyesight — these are the result of using existing computer and phone interfaces for hours on end.
+
+Siri is the first serious step in changing all that.
+
+In true Apple fashion, there is little that is technologically novel. The original iPhone was much the same — the touch interface; pocketable computers that could do email, web and music — these all existed when the original iPhone was released. Same with the Mac — it wasn’t the first mouse or graphical interface to be introduced. They all existed before. What made these devices successful was the way in which they were put together so centrally around the user.
+
+It’s going to be the same with Siri. Very accurate speech recognition systems have been around for some time. So too has advanced artificial intelligence — Watson has won Jeopardy, and every year, the entrants to the Turing Test get better and better. But until now, nobody had put speech and artificial intelligence together in a compelling way: which meant that the voice systems on our computers and our phones have been clunky to the point where it was just easier to avoid them.
+
+That’s what Apple has fixed. Rather than simply roll out technology for its own sake, Siri starts with a deep understanding of the job users have for their devices — and then deploys speech and AI technologies in a way that actually helps them accomplish what they’re trying to do.
+
+The advantage of using speech over other interaction paradigms is that we have honed its use over thousands of years. It is entirely natural for us to talk to one another. Talking is one of the first things we learn how to do as children. It’s second nature for us to ask a colleague or a friend a question and for them to answer the same way. Being able to talk to a phone like it’s a personal assistant is something that people are going to get very used to, very quickly. It’s a much more natural approach than using a mouse on a desktop. And I highly doubt the impact is going to stop at phones. Of course, the computer is going to benefit, but the potential hardly stops there. Take television. Why bother with remotes and complicated TV guides covering hundreds of channels? “Siri, is there any football on right now? When is my team next playing? Could you record it for me?”
+
+That’s not to say this is the end of the keyboard. There will always be instances where a keyboard will be superior; just as there are still instances where using a command line interface is a more effective way of computing than a graphical user interface. That being said, a surprising amount of the time, it simply won’t be necessary. Speech is going to replace it.
+
+Jobs described the original Mac as a bicycle for your mind. Siri deserves some equivalent description — I think it’s going to take devices and turn them into assistants for our minds. It seems crazy right now, but I don’t think it will be long before we view this technology in the same light as we view the iPhone: we won’t quite be able imagine life without it.

@@ -1,0 +1,63 @@
+2011 in review: Apple’s financial performance
+By Philip Michaels
+Macworld DEC 30, 2011 8:15 AM PST
+coins
+Anyone who finds the world of corporate finance a bit dry should spend some time reading Apple’s financial reports from the past year. In an era of economic uncertainty, with consumers keeping a tight grip on their pocketbooks, Apple and its lineup of computers, phones, and other electronic gadgets just wrapped up another banner year.
+
+Before the calendar flips to a new year, it’s worth going back to look at Apple’s financial highlights from 2011 and contemplating whether recently appointed CEO Tim Cook can keep the momentum going into 2012.
+
+Happy holidays
+Apple’s fiscal year begins in October, meaning the company actually has a three-month head start on 2012. More to the point, it also means the company’s fiscal first quarter includes the holiday shopping season—an especially important period for Apple and its lineup of consumer-facing products.
+
+We’ll have to wait until the middle of next month before we find out how Apple fared in the most recent holiday season, but if it’s anything like last year, Apple will get its 2012 fiscal year off to a strong start. For the first quarter of 2011, Apple reported sales of $26.74 billion and a net profit of $6 billion—both quarterly records at the time that the company later eclipsed by the end of its 2011 fiscal year.
+
+Much of that holiday merriment was fueled by sales of iOS devices. During last year’s holiday season, for example, Apple sold 7.33 million iPads—nearly matching the total number of tablets sold during its entire 2010 fiscal year.
+
+
+“In my view, Apple is doing its best work ever,” Cook said during a January conference call with Wall Street analysts to discuss the holiday season results. “That we are all very happy with product pipeline, and the team here has an unparalleled breadth and depth of talent and a culture of innovation that [Steve Jobs] has driven in the company, and excellence has become a habit. And so we feel very, very confident about the future of the company.”
+
+Mac records
+A thriving Mac business is likely helping to bolster that confidence. In both the first and fourth quarters of 2011, Apple sold a record number of Macs. The two quarters it didn’t set a new all-time Mac sales mark represented records for those specific quarters.
+
+
+Mac sales are growing steadily at a time when other PC makers are struggling to maintain single-digit sales growth. Take Apple’s fourth quarter, when the company set a record for quarterly Mac sales by selling 4.89 million machines. The 26-percent jump in sales from the year-ago quarter was six times the growth rate forecasted for the overall PC market by research firm IDC. Throughout 2011, in fact, Apple’s Mac growth consistently outperformed the overall PC market.
+
+
+The reason can probably be summed up in one word: Portables. Apple continues to make changes to its laptop lineup—it introduced Thunderbolt to both the MacBook Pro and MacBook Air this past year—that appeal to consumers. Portables account for more than 70 percent of Apple’s Mac sales; in the fourth quarter, nearly three out of every four Macs Apple sold was a portable.
+
+iOS thrive
+If Apple’s Mac business is enjoying remarkably strong growth for such a mature product line, its iPhone and iPad offerings are still racking up the kind of sales one would expect from hot new products. During its 2011 fiscal year, Apple sold 32 million iPads and 72 million iPhones. That latter figure is particularly impressive in light of the fact that—save for a version of the iPhone 4 that could operate on Verizon’s CDMA network in the U.S.—Apple didn’t release a new smartphone during its fiscal year. (The iPhone 4S came out in October, which falls in the first quarter of 2012 so far as Apple’s accountants are concerned.)
+
+
+A look at the iPad 2’s sales figures further illustrates how a product launch can add fuel to an already fiery segment for Apple. During its third quarter—the first full quarter of iPad 2 sales—Apple sold 9.25 million iPads, an increase of 183 percent from year-ago sales. In the fourth quarter, Apple sold a record 11.12 million tablets, as the iPad 2 expanded to another 28 countries. (It was available for sale in 90 by the end of Apple’s fiscal year.)
+
+Apple’s iOS business is even breathing some new life into the one product line that’s beginning to show its age. iPod sales growth continued to decline in 2011—it’s been nearly three years since quarterly iPod sales have increased from the year-ago quarter. Yet, the iOS-powered iPod touch now accounts for roughly half of the music players that Apple sells. Not only has that helped Apple maintain its dominant share of the MP3 player market, the comparatively high price tag of the iPod touch—prices started at $229 for an 8GB model during the past fiscal year, before dropping to $199 in October—has kept the average sales price of an iPod relatively stable even as overall sales have flagged.
+
+On the store front
+Apple ramped up its retail efforts in the past year, both on the digital and brick-and-mortar fronts. For the former, it opened up a new online software emporium aimed at Mac users while the latter saw more Apple Stores opening up outside of the U.S.
+
+The Mac App Store was easily Apple’s most noteworthy retail effort in 2011. Opening its virtual doors last January, the Mac App Store represented Apple’s attempt to do for Mac software what its iOS App Store had done for programs that run on the iPhone, iPad, and iPod touch. It began with a little more than 1000 apps, but has grown to several thousand. More important, within 11 months, the Mac App Store passed the 100 million download mark. That’s a figure that doesn’t include re-downloads, software updates, or Mac OS X Lion downloads, by the way.
+
+
+A controversy with the Mac App Store is looming in the form of Apple’s March 2012 requirement that Mac App Store offerings must implement sandboxing, which could require some app makers to remove features from their software. If developers balk at sandboxing, it could stall the Mac App Store’s momentum. Still, Apple’s latest online outlet for apps is off to a strong start.
+
+Not that the iOS version of the App Store is looking long in the tooth. It now offers more than half a million apps for the iPhone, iPod touch, and iPad. (Around 140,000 of those apps are specifically built for the iPad, which Apple feels gives its tablet an edge over rival platforms.) In July, the App Store passed the 15 billion download mark—a milestone achieved roughly three years after the iOS store opened its doors. App makers are sharing in the wealth, too: In June, Apple said it had paid out $2.5 billion to developers for the apps sold through its store. (Developers get 70 percent of the revenue on App Store sales, while Apple takes a 30 percent cut.)
+
+
+Apple’s first retail store in Hong Kong opened in September, highlighting the company’s efforts to expand its retail presence in other countries.
+As for its brick-and-mortar stores, Apple ended its 2011 fiscal year with 357 retail outlets around the globe. Apple stepped up its retail efforts outside the U.S.: Of the 40 new stores opened during the past year, 28 were in other countries. Apple was particularly active in China, where it opened stores in Hong Kong and Shanghai. In fact, Apple’s six Chinese stores are among its highest trafficked, company executives have said.
+
+
+(It would be an oversight not to mention how important a market China is becoming to Apple. The country accounted for 12 percent of Apple’s business in 2011, up from just 2 percent two years ago. In the fourth quarter alone, Apple took in $4.5 billion in revenue from China, making it the fastest-growing region where the company does business.)
+
+The international focus will continue with the Apple Store next year. The company is again looking to open 40 stores, with three-quarters of those slated for outside of the U.S. In addition, Apple plans to expand and replace what it describes as high-volume stores that are “becoming too constrained to deliver the expected customer experience.”
+
+What’s ahead
+Apple enters 2012 with a number of potential stumbling blocks on the horizon. Though its iOS devices have thrived so far, a number of rival products hope to eat into the market share enjoyed by the iPhone and iPad. Flooding in Thailand is threatening the supply of hard drives, which could put a strain on all PC makers, including Apple. We’ll find out how Apple is dealing with these particular challenges when it releases its first-quarter numbers in about three weeks.
+
+So far, the company appears confident in its ability to keep growing, particularly on the iPhone front. With the iPhone 4S’s release in October, Apple is looking for a big quarter for its smartphone business. Cook predicted an “all-time record” for iPhone sales when he spoke to analysts in October. (We already know that Apple sold 4 million iPhone 4S models on the opening weekend of sales.)
+
+
+Apple also has a lot of cash at its disposal. The company ended 2011 with $81.6 billion in cash and short-term investments, and Cook has indicated that Apple isn’t “religious about holding cash or not holding.” Some have taken that as a sign Apple could pay out a dividend to its shareholders, something it hasn’t done in nearly two decades.
+
+A more likely scenario, though, is that Apple uses some of its cash to snap up companies with technologies and products that augment what’s already coming out of Cupertino. To that end, Apple has reportedly paid out $500 million to buy Anobit Technologies, a maker of solid-state drives who could give Apple a boost in the mobile market. (Neither company has confirmed the sale.) If that deal does seem particularly noteworthy, keep in mind that Apple’s 2010 purchase of a developer called Siri didn’t exactly set the world on fire—until the technology Apple got in the deal was used to create an iPhone feature that nearly everyone’s talking about.
